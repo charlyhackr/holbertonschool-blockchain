@@ -4,7 +4,7 @@
 
 Commands:
 ```
-Help on the following commands:
+Help on the following commands, please write it down in its command line:
 exit, help, wallet_load, wallet_save, wallet_show, send, mine, info, save, load
 $ help
 ```
