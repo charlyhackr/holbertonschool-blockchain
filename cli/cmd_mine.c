@@ -16,7 +16,7 @@
  * @unspent: unspents
  * Return: 0 if continue else 1
  */
-int delete_invalid_tx(llist_node_t node, void *unspent)
+int delete_invalid_tx(llist_node_t node, void *uunspent)
 {
 	transaction_t *tx = node;
 
